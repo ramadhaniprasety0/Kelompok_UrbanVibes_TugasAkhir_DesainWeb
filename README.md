@@ -53,13 +53,13 @@ Menu navigasi kami dirancang untuk kenyamanan pengguna. Semua submenu terhubung 
 ## Mockup Design
 
 # My Design Figma Dekstop
-[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )]([https://www.figma.com/file/SgvsP9F7rxxaxCPj22p2Bl/DesainMockupDekstop?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1](https://www.figma.com/file/vDlkDJtUDxnzpte9E9kfja/Mockup-desktop?type=design&mode=design&t=a9vtsHzQYSeWkS4r-1))
+[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/vDlkDJtUDxnzpte9E9kfja/Mockup-desktop?type=design&mode=design&t=a9vtsHzQYSeWkS4r-1)
 
 # My Design Figma Tablet
-[Klik Untuk Melihat Design Figma Tablet ( Hanya dapat View )]([https://www.figma.com/file/fljks6oltagDx1dNdw2Vxc/DesaiMockupTablet?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1](https://www.figma.com/file/KJKF6t7bJGCbJk1iZwqp07/Mockup-Tablet?type=design&mode=design&t=a9vtsHzQYSeWkS4r-1))
+[Klik Untuk Melihat Design Figma Tablet ( Hanya dapat View )](https://www.figma.com/file/KJKF6t7bJGCbJk1iZwqp07/Mockup-Tablet?type=design&mode=design&t=Zy0oo99V9ynAcczc-1)
 
 # My Design Figma Mobile
-[Klik Untuk Melihat Design Figma Mobile ( Hanya dapat View )]([https://www.figma.com/file/nGciwYyMSOwaXpKnXDBTcF/DesainMockupMobile?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1](https://www.figma.com/file/rfp5J3LeaBTxywbIISm0pk/Mockup-Mobile?type=design&mode=design&t=a9vtsHzQYSeWkS4r-1))
+[Klik Untuk Melihat Design Figma Mobile ( Hanya dapat View )](https://www.figma.com/file/rfp5J3LeaBTxywbIISm0pk/Mockup-Mobile?type=design&mode=design&t=Zy0oo99V9ynAcczc-1)
 
 ## Wireframe Design
 
