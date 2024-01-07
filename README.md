@@ -29,10 +29,13 @@ Selamat datang di UrbanVibe, layanan sablon pakaian terkemuka dengan desain yang
 - Menu-menu seperti Unggah File, Order, Transfer, Proses Kerja, dan Pengiriman.
 - Contoh-contoh desain kustom yang telah kami hasilkan.
 
-### Order Here
+### Order Here (Cara Order)
 - Rincian tahapan pemesanan yang jelas dan mudah dimengerti.
 - Rekomendasi produk terbaru dan terpopuler.
 
+### Order Here (Order)
+- Bersisi tentang apa yang akan di order deskripsi singkat produk,Ulasan harga , pemilihan warna, ukuran dan jumlah button order now,desain sendiri dan import desain juga contoh custom design
+  
 ## 2. Design dan Layout
 
 ### Warna
@@ -52,22 +55,5 @@ Menu navigasi kami dirancang untuk kenyamanan pengguna. Semua submenu terhubung 
 
 ## Mockup Design
 
-# My Design Figma Dekstop
-[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/SgvsP9F7rxxaxCPj22p2Bl/DesainMockupDekstop?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
-
-# My Design Figma Tablet
-[Klik Untuk Melihat Design Figma Tablet ( Hanya dapat View )](https://www.figma.com/file/fljks6oltagDx1dNdw2Vxc/DesaiMockupTablet?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
-
-# My Design Figma Mobile
-[Klik Untuk Melihat Design Figma Mobile ( Hanya dapat View )](https://www.figma.com/file/nGciwYyMSOwaXpKnXDBTcF/DesainMockupMobile?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
-
-## Wireframe Design
-
-# My Design Wireframe Dekstop
-[Klik Untuk Melihat Design Wireframe Dekstop ( Hanya dapat View )](https://www.figma.com/file/GGmQJBCRuDxSXzolwkCvc9/wireframe-desktop?type=design&node-id=0%3A1&mode=design&t=vU4HkY7EiJgK8DCU-1)
-
-# My Design Wireframe Tablet
-[Klik Untuk Melihat Design Wireframe Mobile ( Hanya dapat View )](https://www.figma.com/file/SiRqLqpxzyDoIbec0FmZij/Untitled?type=design&node-id=0-1&mode=design&t=OZ3ULUhXxQ9VYyUi-0)
-
-# My Design Wireframe Mobile
-[Klik Untuk Melihat Design Wireframe Mobile ( Hanya dapat View )](https://www.figma.com/file/JPAd2lks9GEzggD60imfO2/Untitled?type=design&node-id=0%3A1&mode=design&t=BB9jGtBOJKZUEu4h-1)
+# My Design Figma Dekstop, Device dan Tab
+[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )][(https://www.figma.com/file/SgvsP9F7rxxaxCPj22p2Bl/DesainMockupDekstop?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)](https://www.figma.com/file/MIjUwp9uGDyOj8xnNmgZoI/TugasDesainWebMockup?type=design&node-id=0-1&mode=design&t=LHFBbmsbArrplas4-0)https://www.figma.com/file/MIjUwp9uGDyOj8xnNmgZoI/TugasDesainWebMockup?type=design&node-id=0-1&mode=design&t=LHFBbmsbArrplas4-0
